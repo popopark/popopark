@@ -36,7 +36,7 @@
 -->
 
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Jun Park</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://hemant.codes">Park Jun</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  
 
 
@@ -58,7 +58,13 @@
 <br>
 </p>
   
-### Hi there 👋
+  
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Park Jun | 💻 Developer | 🛸 S.KOREA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>  
+  
+  
+### 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
