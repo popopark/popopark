@@ -28,8 +28,8 @@
 
 -->
 
-## Jun Park <a id="Hello">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+## Jun Park <a id="waving">
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=This is the Way&fontAlign=80&fontAlignY=40&color=gradient)
 
 ### Hi there 👋
 - 🔭 I’m currently working on ...
