@@ -31,8 +31,8 @@
 
 -->
 
-## Jun Park <a id="wavingg">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=waving!&fontAlign=80&fontAlignY=40&color=gradient)
+## Jun Park <a id="waving">
+![wavingg](https://capsule-render.vercel.app/api?type=waving&height=200&text=waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
