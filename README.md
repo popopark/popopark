@@ -32,7 +32,7 @@
 -->
 
 ## Jun Park <a id="waving">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Thisistheway!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
