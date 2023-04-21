@@ -35,6 +35,10 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+
+<a href="https://yeonyeon.tistory.com">
+<img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://yeonyeon.tistory.com"/>
+</a>
   
 ### Hi there 👋
 - 🔭 I’m currently working on ...
