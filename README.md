@@ -40,16 +40,17 @@
 </p>
 
 <p align="center">
-<br/>
-  
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
+<p align="center">
+<br/>
 <a href="https://www.linkedin.com/in/jun-park-8088a7252/">
-<img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://www.linkedin.com/in/jun-park-8088a7252/"/>
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
-<a href="https://www.linkedin.com/in/jun-park-8088a7252/">
-<img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://www.linkedin.com/in/jun-park-8088a7252/"/>
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
+<br>
+</p>
   
 ### Hi there 👋
 - 🔭 I’m currently working on ...
