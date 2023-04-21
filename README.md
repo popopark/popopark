@@ -35,6 +35,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 -->
 
+<div align="center">
+   <h1>Hi there, I'm <a href="https://hemant.codes">Jun Park</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+ 
+
+
+
 <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
