@@ -29,11 +29,19 @@
 ## Jun Park <a id="waving">
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
--->
-
 ## Jun Park <a id="waving">
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 
+![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+-->
+
+<p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p>
+
+<p align="center">
+<br/>
+  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 <a href="https://www.linkedin.com/in/jun-park-8088a7252/">
@@ -53,7 +61,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+  
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
