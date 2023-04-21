@@ -34,7 +34,7 @@
 ## Jun Park <a id="waving">
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
-<img src="https://img.shields.io/badge/버튼에표시될이름-#40AEF0?style=flat-square&logo=1001tracklists&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   
 ### Hi there 👋
 - 🔭 I’m currently working on ...
